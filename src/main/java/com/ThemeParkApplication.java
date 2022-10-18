@@ -1,5 +1,6 @@
-import entity.ThemeParkRide;
-import repository.ThemeParkRideRepository;
+package com;
+import com.entity.ThemeParkRide;
+import com.repository.ThemeParkRideRepository;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
